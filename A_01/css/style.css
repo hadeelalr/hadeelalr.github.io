@@ -20,7 +20,9 @@ h2 {
 	font-weight: 600;
   position: relative;
   text-align: center;
-
+  width: 26%;
+  padding: 10% 10% 10% 10%;
+  box-sizing: content-box;
 }
 
 
@@ -75,5 +77,8 @@ width: 26%;
 padding: 0% 37% 0% 37%;
 box-sizing: content-box;
 }
+
+
+
 
 
